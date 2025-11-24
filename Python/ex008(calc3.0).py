@@ -1,41 +1,41 @@
 import tkinter as tk
 
-Expression = ''
+expressao = ''
 
 def clicar_numero(numero):
     #Adiciona o número ou operador à expressão e atualiza o display.
-    global Expression
-    Expression = Expression + str(numero)
+    global expressao
+    expressao = expressao + str(numero)
     campo_texto.delete(0, tk.END)
-    campo_texto.insert(0,Expression)
+    campo_texto.insert(0,expressao)
 
 def limpar():
-    #Apagar toda a conta (Clear All). Limpa a variável Expression e o display.
-    global Expression
-    Expression = ''
+    #Apagar toda a conta (Clear All). Limpa a variável expressao e o display.
+    global expressao
+    expressao = ''
     campo_texto.delete(0,tk.END)
 
 def backspace():
-    #Apagar a expressão (DEL). Remove o último caractere da string Expression.
-    global Expression
+    #Apagar a expressão (DEL). Remove o último caractere da string expressao.
+    global expressao
     # retorna a string sem o último caractere
-    Expression = Expression[:-1] 
+    expressao = expressao[:-1] 
     campo_texto.delete(0, tk.END)
-    campo_texto.insert(0, Expression)
+    campo_texto.insert(0, expressao)
 
 def calcular():
     #Avalia a expressão e exibe o resultado.
-    global Expression
+    global expressao
     try:
-        # Usa eval() para calcular o resultado da string Expression
-        resultado = str(eval(Expression))
+        # Usa eval() para calcular o resultado da string expressao
+        resultado = str(eval(expressao))
         campo_texto.delete(0,tk.END)
         campo_texto.insert(0,resultado)
-        Expression = resultado
+        expressao = resultado
     except:
         campo_texto.delete(0,tk.END)
         campo_texto.insert(0,"ERRO")
-        Expression = ''
+        expressao = ''
 
 janela = tk.Tk()
 janela.title('Calculadora')
