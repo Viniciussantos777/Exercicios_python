@@ -1,7 +1,9 @@
 # Exercicios_python
+
 Resolução de questões da OBMEP (Olimpiada Brasileira de Matemática das Escolas Públicas) exercitando a lógica de programação e a própria linguagem.
 ---
 ## Metodologia:
+
 primeiro o código com ex00_.py é o problema sendo resolvido por IA, dessa forma obtendo uma direção a ser seguida para assim criar meu próprio código sendo o notes00_.py
 ---
 ## Disclaimer:
