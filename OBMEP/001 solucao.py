@@ -20,4 +20,4 @@ def maneiras_de_pagar(valor_maximo, nota1, nota2):
         
     print(f'Com as notas de R${nota1},00 e R${nota2},00 existem {len(possibilidades)} possibilidades de combinação.')
     
-print(maneiras_de_pagar(50,2,5))
+print(maneiras_de_pagar(20,2,5))

@@ -1,0 +1,10 @@
+1. Pedro tem muitas notas de 2 e de 5 reais.
+Ele precisa pagar uma conta de 20 reais. De quantas
+maneiras diferentes Pedro pode pagar essa conta sem
+receber troco?
+
+(A) 3
+(B) 1
+(C) 2
+(D) 5
+(E) 4
