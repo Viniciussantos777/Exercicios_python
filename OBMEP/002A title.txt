@@ -1,0 +1,10 @@
+João atribuiu um número a cada letra do alfabeto.
+Somando os números atribuídos às letras, ele obteve 40
+para JABUTI, 19 para CABRA e 55 para JABUTICABA.
+Qual é o valor que ele atribuiu à letra R?
+
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
