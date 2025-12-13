@@ -1,9 +1,3 @@
-from collections import Counter
-
-jabuti = Counter('JABUTI')
-cabra = Counter('CABRA')
-jabuticaba = Counter('JABUTICABA')
-
 total = {
     'JABUTI': 40,
     'CABRA': 19,
