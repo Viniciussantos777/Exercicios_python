@@ -1,0 +1,13 @@
+Bolas numeradas de 1 a 5 foram colocadas de duas
+maneiras diferentes em uma balança, como na figura.
+Três bolas pesam 1 quilo cada uma e duas pesam meio
+quilo cada uma.A primeira pesagem mostra que as bolas
+1, 2 e 3 pesam o mesmo que as bolas 4 e 5. A segunda
+pesagem mostra que as bolas 2 e 5 pesam mais do que
+as bolas 1 e 4. Quais bolas pesam meio quilo?
+
+A) 1 e 2
+B) 1 e 3
+C) 2 e 3
+D) 1 e 4
+E) 2 e 5
