@@ -1,0 +1,8 @@
+Joãozinho desenhou uma cruz formada por 12 segmentos de 1cm cada. Depois ele desenhou novas figuras sempre encaixando a figura 1 na anterior como na figura (Olhar figura questão 5 - 1º fase 2025).
+Qual das alternativas abaixo pode ser o comprimento do contorno, destacado em linha mais grossa, de alguma figura desenhada por Joãozinho?
+
+A) 2024 cm
+B) 2026 cm
+C) 2028 cm
+D) 2030 cm
+E) 2023 cm
