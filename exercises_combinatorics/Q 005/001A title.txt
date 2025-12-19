@@ -1,0 +1,3 @@
+Numa empresa há 5 engenheiros, 2 economistas e 4 administradores. 
+Deseja-se formar uma comissão para estudar um projeto, composta de 1 engenheiro, 1 eco￾nomista e 1 administrador. 
+De quantos modos a comissão poderá ser formada? 
