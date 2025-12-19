@@ -1,8 +1,10 @@
-Rafael fez 4 cortes em seu canudinho de 16 cm de comprimento. No primeiro corte ele dividiu o canudinho ao meio
-e em cada um dos outros três cortes, ele dividiu ao meio um pedaço já cortado. Ao terminar os cortes, Rafael percebeu que ficaram pedaços de apenas dois cumprimentos diferentes. Qual é o comprimento dos pedaços menores?
+É recomendável que o peso total da mochila com
+o material escolar de um estudante não ultrapasse 12%
+do peso do estudante. Ana pesa 48 quilogramas e sua mochila vazia pesa 760 gramas.
+Qual é o peso máximo recomendado para o material escolar que Ana pode levar em sua mochila?
 
-A) 0,5 cm
-B) 1 cm
-C) 2 cm
-D) 3 cm
-E) 4 cm
+A) 3 kg
+B) 4 kg
+C) 5 kg
+D) 6 kg
+E) 7 kg
